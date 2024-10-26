@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋, I'm Joel Almeida</h1>
+<h1 align="center">&lt;Hello World!&gt; 👋, I'm Joel Almeida</h1>
 <h3 align="center">A computer engineering student in Portugal, at the Polytechnic Institute of Viseu</h3>
 
 # 💫 About Me:
