@@ -2,7 +2,7 @@
 <h3 align="center">A computer engineering student in Portugal, at the Polytechnic Institute of Viseu</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Projeto_POO<br>🌱 I’m currently learning C++, javascript<br>📫 How to reach me joeldiasalmeida.2005@gmail.com
+🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning C++, javascript<br>📫 How to reach me joeldiasalmeida.2005@gmail.com
 
 
 ## 🌐 Socials:
