@@ -1,10 +1,14 @@
-<h1 align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=%3CHello+World!%3E;I%27m+Joel+Almeida!;&color=FFF" />
-</h1>
+</div>
 
 <h3 align="center">Computer Engineering Student @ IPV</h3>
 
----
+## 🚀 About Joel
+
+📱 Building mobile apps with Flutter | 🌐 Mastering full-stack development | 🎓 Computer Engineering student  
+🌟 Turning coffee & music into code | 🎮 Gaming enthusiast | 🎵 Indie music lover
+
 
 ## 🌐 Connect With Me
 
@@ -26,8 +30,6 @@
   </a>
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -43,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
@@ -55,14 +56,6 @@
 </div>
 
 ---
-
-## 🚀 About Joel
-
-📱 Building mobile apps with Flutter | 🌐 Mastering full-stack development | 🎓 Computer Engineering student  
-🌟 Turning coffee & music into code | 🎮 Gaming enthusiast | 🎵 Indie music lover
-
----
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xJoelxAlmeidax/xJoelxAlmeidax/output/github-contribution-grid-snake-dark.svg">
