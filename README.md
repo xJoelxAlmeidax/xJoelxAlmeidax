@@ -6,21 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-```typescript
-const joel = {
-    location: "Viseu, Portugal 🇵🇹",
-    education: "Computer Engineering @ Polytechnic Institute of Viseu",
-    currentFocus: "Full-Stack Development & Mobile Applications",
-    hobbies: ["Coding", "Learning new technologies", "Gaming"],
-    email: "joeldiasalmeida.2005@gmail.com",
-    askMeAbout: ["Web Development", "Mobile Apps", "Database Design", "Software Architecture"]
-};
-```
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
