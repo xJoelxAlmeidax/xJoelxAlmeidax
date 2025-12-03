@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=%3CHello+World!%3E;I%27m+Joel+Almeida!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=%3CHello+World!%3E;I%27m+Joel+Almeida!;&color=FFF" />
 </h1>
 
 <h3 align="center">Computer Engineering Student @ IPV</h3>
@@ -56,19 +56,10 @@
 
 ---
 
-## 🎯 Current Goals
+## 🚀 About Joel
 
-- 📱 Building innovative mobile applications with Flutter
-- 🌐 Mastering full-stack web development
-- 🎓 Completing my Computer Engineering degree with excellence
-
----
-
-## 💡 Fun Facts About Me
-
-- 🌟 I love turning coffee & music into code
-- 🎮 Gaming enthusiast when not coding
-- 🎵 Indie Folk, Indie Pop, Indie Rock, Alternative and a little bit of everything
+📱 Building mobile apps with Flutter | 🌐 Mastering full-stack development | 🎓 Computer Engineering student  
+🌟 Turning coffee & music into code | 🎮 Gaming enthusiast | 🎵 Indie music lover
 
 ---
 
