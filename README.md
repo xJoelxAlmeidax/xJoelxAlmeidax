@@ -6,8 +6,7 @@
 
 ## 🚀 About Joel
 
-📱 Building mobile apps with Flutter | 🌐 Mastering full-stack development | 🎓 Computer Engineering student  
-🌟 Turning coffee & music into code | 🎮 Gaming enthusiast | 🎵 Indie music lover
+Portuguese | 20 years old | Computer Engineering student | Music and Gaming enthusiast
 
 
 ## 🌐 Connect With Me
